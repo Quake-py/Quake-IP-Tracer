@@ -20,11 +20,10 @@ Projenin sorunsuz çalışabilmesi için sisteminizde **Python 3.x** kurulu olma
 
 Kütüphaneleri tek tek yüklemekle uğraşmamak için sizin için hazırladığım otomatik kurulum dosyasını kullanabilirsiniz:
 
-1. Klasördeki `kurulum.bat` dosyasına çift tıklayın. Bu dosya, gerekli olan `requests` ve `colorama` kütüphanelerini saniyeler içinde bilgisayarınıza otomatik olarak kuracaktır.
+1. Klasördeki `kurulum.bat` dosyasına çift tıklayın. Bu dosya, gerekli olan `requests` ve `colorama` kütüphanelerini bilgisayarınıza otomatik olarak kuracaktır.
 2. Kurulum bittikten sonra projeyi çalıştırmak için CMD'den şu komutu girin:
    ```bash
    python iptracer.py
    ```
 
-Sorunsuz ve güvenli kullanımlar dileriz.
 (Bu tool öylesine yapıldı. Herhangi bir şey kabul etmiyorum. Sadece eğlence amaçlı yapıldı.)
